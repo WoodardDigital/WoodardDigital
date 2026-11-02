@@ -19,6 +19,7 @@ I spend my days on cloud infrastructure and my nights and weekends on fire calls
 
 ## Elsewhere
 
-- Writing and notes: [woodarddigital.com](https://woodarddigital.com)
+- Writing and notes: [woodard.tech](https://woodard.tech), a self-hosted Kubernetes project running in production
+- My small business: [woodarddigital.com](https://woodarddigital.com)
 - The foundation: [woodard.foundation](https://woodard.foundation)
 - Want to reach me? Use the [contact page](https://woodard.foundation/contact/) on the foundation site.
